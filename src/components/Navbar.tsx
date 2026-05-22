@@ -33,7 +33,7 @@ export default function Navbar({ activeTab, setActiveTab }: NavbarProps) {
           {/* Brand Name on the left */}
           <button
             onClick={() => handleTabClick('start')}
-            className="text-2xl font-semibold text-gray-900 tracking-tight hover:opacity-80 transition-opacity cursor-pointer flex items-center gap-2 text-left"
+            className="text-2xl font-semibold text-white tracking-tight hover:opacity-80 transition-opacity cursor-pointer flex items-center gap-2 text-left"
           >
             <span>Portfolio</span>
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" title="Online" />
