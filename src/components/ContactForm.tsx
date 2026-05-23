@@ -30,10 +30,10 @@ export default function ContactForm({ onClose }: ContactFormProps) {
           <div>
             <h4 className="text-[10px] font-bold text-gray-400 uppercase tracking-widest leading-none mb-1">Email</h4>
             <a 
-              href="mailto:saravana232007@gmail.com" 
+              href="mailto:s.s.mani1303@gmail.com" 
               className="text-xs font-semibold text-gray-900 hover:text-gray-700 transition-colors block"
             >
-              saravana232007@gmail.com
+              s.s.mani1303@gmail.com
             </a>
           </div>
         </div>
